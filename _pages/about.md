@@ -9,5 +9,5 @@ I am a researcher with a PhD in Electrical Engineering and a strong background i
 
 Currently I'm actively seeking for career opportunities in data analytics. 
 
-My detailed CV can be found [here](https://drive.google.com/file/d/1IaA0TYbu8kpz6Ra3It1kcVre-iKzB7RQ/view?usp=sharing).
+My detailed CV and contact information can be found [here](https://drive.google.com/file/d/1IaA0TYbu8kpz6Ra3It1kcVre-iKzB7RQ/view?usp=sharing).
 
