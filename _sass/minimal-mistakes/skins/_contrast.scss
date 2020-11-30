@@ -12,9 +12,9 @@ $border-color: #01796f !default;
 $footer-background-color: #01796f !default;
 // $footer-background-color: #000 !default;
 $link-color: #0000ff !default;
-$masthead-link-color: $pinegreen;
-$masthead-link-color-hover: $pinegreen;
-$navicon-link-color-hover: $pinegreen;
+$masthead-link-color: #01796f;
+$masthead-link-color-hover: #01796f;
+$navicon-link-color-hover: #01796f;
 
 // $masthead-link-color: $text-color !default;
 // $masthead-link-color-hover: $text-color !default;
@@ -50,7 +50,7 @@ $base0f: #b18a3d !default;
 }
 
 .page__footer {
-  color: $pinegreen !important; // override
+  color: #01796f !important; // override
 }
 
 // color: #fff !important; // override
