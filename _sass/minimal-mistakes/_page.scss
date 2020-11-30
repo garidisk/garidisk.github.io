@@ -41,7 +41,8 @@
 
     .page__content,
     .page__meta,
-    .page__share {
+    //.page__share
+     {
       position: relative;
       float: left;
       margin-left: 0;
@@ -57,6 +58,7 @@
   line-height: 1;
 
   & + .page__meta {
+    color: #000;
     margin-top: -0.5em;
   }
 }
