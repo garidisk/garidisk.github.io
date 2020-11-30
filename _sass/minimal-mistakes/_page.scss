@@ -40,7 +40,8 @@
     clear: both;
 
     .page__content,
-    .page__meta, 
+    .page__meta,
+    .page__share,
     {
       position: relative;
       float: left;
@@ -216,7 +217,7 @@
 /*
    Social sharing
    ========================================================================== */
-/*
+
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
@@ -241,7 +242,6 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-*/
 
 /*
    Page meta
