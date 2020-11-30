@@ -58,7 +58,7 @@ $base0f: #b18a3d !default;
 }
 
 .page__footer {
-  color: #ffffff; // override
+  color: #ffffff !important; // override
 }
 
 // color: #fff !important; // override
