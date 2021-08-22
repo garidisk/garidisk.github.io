@@ -1,10 +1,10 @@
 ---
 title: "Radio station feed data analysis"
 date: 2021-08-22
-tags: [data wrangling, data science, messy data]
+tags: [data wrangling, data analysis, data visualizations, python]
 header:
-  image: "/images/radioclash.jpg"
-excerpt: "Data Wrangling, Data Analysis, Data Visualization, Python"
+  image: "/images/radiofeed/radioclash.jpg"
+excerpt: "Data Wrangling, Data Analysis, Data Visualizations, Python"
 mathjax: "true"
 ---
 
