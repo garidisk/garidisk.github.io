@@ -12,7 +12,7 @@ mathjax: "true"
 Everytime a song is played on the radio, its airplay is reported to a performing rights organization. There are many such organizations, depending on the country/continent the radio station is based on. One common issue with the logging of the airtime is in the data entry itself. Duplicate entries, erroneous song naming, missing names in general etc. Therefore, data cleaning is even more important when dealing with radio play data.
 
 ## Introduction
-This notebook deals with song play data from various radio feeds. They span a period of 21 months from January 2019 to September 2020. Using the supplied datasets, songs can be pinned to their respective feeds and feeds to their respective radio stations. The focus of this notebook will be on the following:
+This project deals with song play data from various radio feeds. They span a period of 21 months from January 2019 to September 2020. Two datasets are been used for this project: a set containing song radio play information and another containing mapping information between feeds and stations. Using the supplied datasets, songs can be pinned to their respective feeds and feeds to their respective radio stations. The focus of this notebook will be on the following:
 
 - Cleaning the dataset
 - Visualization and insights 
