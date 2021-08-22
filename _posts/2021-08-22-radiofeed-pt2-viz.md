@@ -8,11 +8,11 @@ excerpt: "Data visuzlization, Plotly"
 mathjax: "true"
 ---
 
-_This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis.
+_This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis._
 
-_The first part can be found [here](https://garidisk.github.io/radiofeed-pt1-eda/).
+_The first part can be found [here](https://garidisk.github.io/radiofeed-pt1-eda/)._
 
-_The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). This version also supports interactive plots which cannot be rendered here (due to .html file size constraints).
+_The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). This version also supports interactive plots which cannot be rendered here (due to .html file size constraints)._
 
 ## Visualizations & discussion
 
