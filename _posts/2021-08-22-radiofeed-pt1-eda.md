@@ -8,10 +8,6 @@ excerpt: "Data Wrangling, Data Analysis, Data Visualization, Python"
 mathjax: "true"
 ---
 
-# Radio station feed data
-## Take home assignment | Utopia Music
-
-
 ## Context
 Everytime a song is played on the radio, its airplay is reported to a performing rights organization. There are many such organizations, depending on the country/continent the radio station is based on. One common issue with the logging of the airtime is in the data entry itself. Duplicate entries, erroneous song naming, missing names in general etc. Therefore, data cleaning is even more important when dealing with radio play data.
 
