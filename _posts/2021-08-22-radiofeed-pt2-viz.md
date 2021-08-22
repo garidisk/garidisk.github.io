@@ -6,7 +6,7 @@ header:
   image: "/images/radioclash.jpg"
 excerpt: "Data Visualization, Python, Plotly"
 mathjax: "true"
-classes: wide
+classes: "wide"
 ---
 
 _This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis._
