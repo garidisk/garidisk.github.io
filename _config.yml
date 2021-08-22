@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kostas Garidis"
   avatar           : "/images/portrait_200px_1.jpg"
-  bio              : "Data analyst | Physicist | PhD"
+  bio              : "Data analyst" \n "Physicist" \n "PhD"
   location         : "Stockholm, SE | Athens, GR"
   email            :
   links:
