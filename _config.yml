@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Project portfolio"
 title_separator          : "-"
-subtitle                 : "Analysis, modelling & visualization"
+subtitle                 : "Data analysis, viz & modelling"
 name                     : "garidisk"
 description              : "Data science portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
