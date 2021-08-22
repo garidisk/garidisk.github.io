@@ -107,15 +107,15 @@ author:
   location         : "Stockholm, SE | Athens, GR"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:garidisk@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/garidisk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/garidisk/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:garidisk@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
