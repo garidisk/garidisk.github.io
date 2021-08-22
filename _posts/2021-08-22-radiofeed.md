@@ -327,6 +327,8 @@ fig.update_layout(title_text='Plays per day in 2020 (until September)')
 fig.show()
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/1.png" alt="linearly separable data">
+
 Some outliers immediately show up. In 2019, the top artists ('artist_03' and 'artist_07') have a massive drop in airplay in the period 02/15-02/18 & 02/25. Let's look into the station activity during that period.
 
 
