@@ -8,12 +8,6 @@
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0;
-  height: auto;
-  /* sticky footer fix end */
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
@@ -48,14 +42,13 @@
   .fab,
   .far,
   .fal {
-    color: #fff;
+    color: $muted-text-color;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  color: #fff;
 }
 
 .page__footer-follow {
@@ -63,7 +56,6 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    color: #fff;
   }
 
   li {
@@ -72,7 +64,7 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 
   li + li:before {
@@ -83,5 +75,11 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+  }
+
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
   }
 }
