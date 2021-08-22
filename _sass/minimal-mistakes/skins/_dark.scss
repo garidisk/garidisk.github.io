@@ -24,7 +24,7 @@ $link-color: mix($primary-color, $text-color, 40%) !default;
 */
 
 /* New footer background color */
-$footer-background-color: $pinegreen !default;
+$footer-background-color: mix(#000, $background-color, 30%) !default;
 /* Old
 $footer-background-color: mix(#000, $background-color, 30%) !default;
 */
