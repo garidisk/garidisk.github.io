@@ -8,9 +8,6 @@ excerpt: "Data visuzlization, Plotly"
 mathjax: "true"
 ---
 
-# Radio station feed data
-
-## Introduction
 This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis.
 
 The first part can be found here LINK.
