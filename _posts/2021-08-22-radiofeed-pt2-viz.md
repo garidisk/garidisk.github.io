@@ -14,7 +14,7 @@ _The first part can be found [here](https://garidisk.github.io/radiofeed-pt1-eda
 
 _The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). This version also supports interactive plots which cannot be rendered here (due to .html file size constraints)._
 
-_Header image is the cover of the 2013 release of the ["The Clash Hits Back compilation"](https://www.discogs.com/The-Clash-Hits-Back/master/594585). The same photo has also been used in a 1981 promo release called ["If Music Could Talk"](https://www.discogs.com/The-Clash-Hits-Back/master/594585), which included band member interviews._
+_The header image is the cover of the 2013 release of the ["The Clash Hits Back"](https://www.discogs.com/The-Clash-Hits-Back/master/594585) compilation. The same photo has also been used in a 1981 promo release called ["If Music Could Talk"](https://www.discogs.com/The-Clash-Hits-Back/master/594585), which includes interviews with the band members._
 
 ## Visualizations & discussion
 
