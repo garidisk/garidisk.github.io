@@ -7,6 +7,11 @@ header:
 excerpt: "Data Wrangling, Data Analysis, Data Visualization, Python"
 mathjax: "true"
 ---
+This is Part I of the radio station feed data analysis. This part contains only data wrangling part of the exploratory data analysis.
+
+Visualizations and result analysis are included in the second part, which can be found [here](https://garidisk.github.io/radiofeed-pt2-viz/).
+
+The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). 
 
 ## Context
 Everytime a song is played on the radio, its airplay is reported to a performing rights organization. There are many such organizations, depending on the country/continent the radio station is based on. One common issue with the logging of the airtime is in the data entry itself. Duplicate entries, erroneous song naming, missing names in general etc. Therefore, data cleaning is even more important when dealing with radio play data.
@@ -19,7 +24,7 @@ This project deals with song play data from various radio feeds. They span a per
 
 The data cleaning will focus on identifying and removing duplicate entries. Duplicate entries will have an impact in the revenue stream towards the artists.
 
-The visualizations in this notebook will be done using Plotly which offers out-of-the-box chart interaction. The cleaned dataset will be also fed into Tableau for further visual representation of the data.
+This is Part I of the analysis of the radio feed data. The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing).
 
 To use Plotly in JupyterLab, install the jupyterlab and ipywidgets packages using pip:
 
