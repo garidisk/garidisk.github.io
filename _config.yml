@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Konstantinos Garidis | Portfolio"
+title                    : "Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kostas"
+subtitle                 : "Konstantinos Garidis"
+name                     : "K.G."
 description              : "Data science portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kostas"
+  name             : "Kostas Garidis"
   avatar           : "/images/portrait_200px_1.jpg"
   bio              : "Data analyst | Physicist | PhD"
   location         : "Stockholm, SE | Athens, GR"
