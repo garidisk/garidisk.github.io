@@ -20,7 +20,7 @@ title                    : "Konstantinos Garidis | Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kostas"
-description              : "An amazing website."
+description              : "Data science portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Kostas"
+  avatar           : "/images/portrait_200px_1.jpg"
+  bio              : "Data analyst | Physicist | PhD"
+  location         : "Stockholm, SE | Athens, GR"
   email            :
   links:
     - label: "Email"
