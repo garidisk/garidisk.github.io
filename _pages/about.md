@@ -5,9 +5,9 @@ header:
   image: # "/images/waterfront.jpg"
 ---
 
-I am a researcher with a PhD in Electrical Engineering and a strong background in math and physics. On a daily basis, for the past 9 years, I have been handling a large number of diverse  datasets to provide data driven visualized insights for a variety of research projects. 
+Physicist, turned data analyst, with a PhD in electrical engineering. Strong background in mathematics and statistical analysis. Routinely handling diverse datasets to provide data driven visualizations and insights for a variety of projects.
 
 Currently I'm actively seeking for career opportunities in data analytics. 
 
-My detailed CV and contact information can be found [here](https://drive.google.com/file/d/14KxDNZoPocaxY76-Vokgv27V4tXH1hXu/view?usp=sharing).
+My detailed CV and contact information can be found [here](https://drive.google.com/file/d/1nTzfiePiVD6R1zVvjeens2yp0cAO1Cbm/view?usp=sharing).
 
