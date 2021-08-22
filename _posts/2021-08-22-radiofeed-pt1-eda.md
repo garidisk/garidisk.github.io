@@ -24,24 +24,6 @@ This project deals with song play data from various radio feeds. They span a per
 
 The data cleaning will focus on identifying and removing duplicate entries. Duplicate entries will have an impact in the revenue stream towards the artists.
 
-This is Part I of the analysis of the radio feed data. The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing).
-
-To use Plotly in JupyterLab, install the jupyterlab and ipywidgets packages using pip:
-
-$ pip install "jupyterlab>=3" "ipywidgets>=7.6"
-
-or conda:
-
-conda install "jupyterlab>=3" "ipywidgets>=7.6" 
-
-For Plotly in Jupyter Notebook, install the notebook and ipywidgets packages using pip:
-
-$ pip install "notebook>=5.3" "ipywidgets>=7.5"
-
-or conda:
-
-$ conda install "notebook>=5.3" "ipywidgets>=7.5" 
-
 
 ## Data wrangling
 
