@@ -4,7 +4,7 @@ date: 2021-08-22
 tags: [data visualization, python, plotly, interactive plots]
 header:
   image: "/images/radioclash.jpg"
-excerpt: "Data visuzlization, Plotly"
+excerpt: "Data Visualization, Python, Plotly"
 mathjax: "true"
 ---
 
