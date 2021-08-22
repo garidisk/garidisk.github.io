@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Konstantinos Garidis"
+title                    : "Konstantinos Garidis - Data Analysis Portfolio"
 title_separator          : "-"
 name                     : "garidisk"
 description              : "Data Science Portfolio"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Kostas"
   avatar           : "/images/portrait_200px_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Athens, GR"
+  bio              : "Physicist & Data Analyst"
+  location         : "Stockholm, SE | Athens, GR"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
