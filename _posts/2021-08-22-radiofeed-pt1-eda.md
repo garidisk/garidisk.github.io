@@ -231,3 +231,4 @@ airtistperstation = df.groupby(['SMP_Station', 'Feed_Id'])['Artist'].value_count
 feedsperstation = df.groupby('SMP_Station')['Feed_Id'].nunique().value_counts(normalize=True)*100
 ```
 
+Now that the datasets are in a good shape, we can compliment the exploaratory data analysis with some visualizations. More on that can be found in Part II, [here](https://garidisk.github.io/radiofeed-pt2-viz/).
