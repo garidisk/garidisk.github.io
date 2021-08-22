@@ -25,10 +25,10 @@ $footer-background-color: mix(#000, $background-color, 30%) !default;
 
 /* New color values */
 $link-color-hover: mix(#fff, $link-color, 5%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
-$masthead-link-color: $link-color !default;
+$link-color-visited: $link-color !default;
+$masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $link-color !default;
-$navicon-link-color-hover: $link-color !default;
+$navicon-link-color-hover: $background-color !default;
 
 /* Old color values */
 /*
