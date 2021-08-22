@@ -13,6 +13,8 @@ _Visualizations and result analysis are included in the second part, which can b
 
 _The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing)._
 
+_Header image is the cover of the 2013 release of the ["The Clash Hits Back compilation"](https://www.discogs.com/The-Clash-Hits-Back/master/594585). The same photo has also been used in a 1981 promo release called ["If Music Could Talk"](https://www.discogs.com/The-Clash-Hits-Back/master/594585), which included band member interviews._
+
 ## Context
 Everytime a song is played on the radio, its airplay is reported to a performing rights organization. There are many such organizations, depending on the country/continent the radio station is based on. One common issue with the logging of the airtime is in the data entry itself. Duplicate entries, erroneous song naming, missing names in general etc. Therefore, data cleaning is even more important when dealing with radio play data.
 
