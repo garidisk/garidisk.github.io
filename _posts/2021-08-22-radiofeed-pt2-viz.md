@@ -8,29 +8,11 @@ excerpt: "Data visuzlization, Plotly"
 mathjax: "true"
 ---
 
-This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis.
+_This is Part II of the radio station feed data analysis. This part contains only the visualizations and data interpretation segments of the analysis.
 
-The first part can be found [here](https://garidisk.github.io/radiofeed-pt1-eda/).
+_The first part can be found [here](https://garidisk.github.io/radiofeed-pt1-eda/).
 
-The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). This version also supports interactive plots which cannot be rendered here (due to .html file size constraints).
-
-The visualizations have been done with Plotly.
-
-To use Plotly in JupyterLab, install the jupyterlab and ipywidgets packages using pip:
-
-$ pip install "jupyterlab>=3" "ipywidgets>=7.6"
-
-or conda:
-
-conda install "jupyterlab>=3" "ipywidgets>=7.6" 
-
-For Plotly in Jupyter Notebook, install the notebook and ipywidgets packages using pip:
-
-$ pip install "notebook>=5.3" "ipywidgets>=7.5"
-
-or conda:
-
-$ conda install "notebook>=5.3" "ipywidgets>=7.5" 
+_The full notebook can be found [here](https://drive.google.com/file/d/12hSI_T7zoPcxEId7Mrb-KCTXNY_syMFT/view?usp=sharing). This version also supports interactive plots which cannot be rendered here (due to .html file size constraints).
 
 ## Visualizations & discussion
 
