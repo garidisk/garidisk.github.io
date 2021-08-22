@@ -286,12 +286,14 @@ defaults:
       read_time: true
       comments: # true
       related: true
-      share: # true
+      share: true
   
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: archive    
+      layout: single
+      author_profile: true
+
       
