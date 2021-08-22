@@ -1,7 +1,7 @@
 ---
 title: "Radio station feed data analysis - Part I"
 date: 2021-08-22
-tags: [data wrangling, data science, messy data]
+tags: [data wrangling, python, pandas, merge, cleaning, duplicates, timedate]
 header:
   image: "/images/radioclash.jpg"
 excerpt: "Data Wrangling, Data Analysis, Data Visualization, Python"
