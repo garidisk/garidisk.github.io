@@ -20,8 +20,6 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-{% include figure1.html %}
-
 What about a [link](https://github.com/dataoptimal)?
 
 Here's a bulleted list:
