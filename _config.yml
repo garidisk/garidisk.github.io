@@ -108,7 +108,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-open"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:garidisk@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
