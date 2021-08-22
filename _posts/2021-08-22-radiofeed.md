@@ -21,24 +21,7 @@ This notebook deals with song play data from various radio feeds. They span a pe
 
 The data cleaning will focus on identifying and removing duplicate entries. Duplicate entries will have an impact in the revenue stream towards the artists.
 
-The visualizations in this notebook will be done using Plotly which offers out-of-the-box chart interaction. The cleaned dataset will be also fed into Tableau for further visual representation of the data.
-
-To use Plotly in JupyterLab, install the jupyterlab and ipywidgets packages using pip:
-
-$ pip install "jupyterlab>=3" "ipywidgets>=7.6"
-
-or conda:
-
-conda install "jupyterlab>=3" "ipywidgets>=7.6" 
-
-For Plotly in Jupyter Notebook, install the notebook and ipywidgets packages using pip:
-
-$ pip install "notebook>=5.3" "ipywidgets>=7.5"
-
-or conda:
-
-$ conda install "notebook>=5.3" "ipywidgets>=7.5" 
-
+The visualizations in this notebook will be done using Plotly which offers out-of-the-box chart interaction. 
 
 ## Data wrangling
 
