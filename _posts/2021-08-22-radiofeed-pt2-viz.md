@@ -120,6 +120,10 @@ fig.update_layout(title_text='Plays per day in 2020 (until September)')
 fig.show()
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/1.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/2.png" alt="linearly separable data">
+
+
 Some outliers immediately show up. In 2019, the top artists ('artist_03' and 'artist_07') have a massive drop in airplay in the period 02/15-02/18 & 02/25. Let's look into the station activity during that period.
 
 
@@ -138,7 +142,6 @@ During that period the reported station activity was significantly reduced compa
 For 2019 there is no significant decrease in airtime over the course of the year. For 2020 however, the data stops at the end of September. Given that the song airtime reporting has been consistent through the previous year, we expect similar levels of plays for 2020 too. This is also the reason for the reduced total plays for 2020, as 3 months of data can make a lot of difference.
 
 What's more interesting is the share of each song/artist in the yearly plays. This is easier to see in a donut chart. 
-
 
 ```python
 ### Airplays, per year and total
@@ -186,11 +189,11 @@ fig.update_layout(legend_title_text='Artist & song',
                                dict(text=str(playstotal), x=0.905, y=0.5, font_size=18, showarrow=False)])
 fig.show()
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/3.png" alt="linearly separable data">
 
 The number of plays for each donut chart is displayed in its hole. It looks like two songs dominated the airtime for both 2019 & 2020. It is also interesting that the airplay percentages for all songs, has remained the same across the two years. Steady number of plays over such a long time suggests that the songs are title (or credits or intermission) tracks for radio shows or podcasts. 
 
 Let's now check the song variety per station i.e. how many stations played more than 1 song. 
-
 
 ```python
 ### Unique artists played per station
@@ -235,6 +238,7 @@ fig.update_layout(legend_title_text='Number of artists',
                                dict(text=str(stationstotal), x=0.885, y=0.5, font_size=18, showarrow=False)])
 fig.show()
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/4.png" alt="linearly separable data">
 
 In the center hole of each donut, is the number of active stations. Also note that for this set of charts, the color key corresponds to artist count rather than song name as in the rest of the graphs.
 
@@ -269,6 +273,8 @@ fig.update_layout(xaxis = dict(tickmode = 'linear',
                  )
 fig.show()
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/5.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/6.png" alt="linearly separable data">
 
 Plotting the total airplays (no distinction between songs now) over a 24 hour day period would show the listening (or airtime reporting) behaviour. This graph is closer to what one would expect from a listener: decreased listeners/feed activity during afternoon/night compared to steady activity during working hours. 
 
@@ -300,5 +306,6 @@ fig.update_layout(title='Number of radio plays per hour of the day',
 
 fig.show()
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/7.png" alt="linearly separable data">
 
 As a final note, it would be interesting to have some data on how long each song was played for each feed and radio station. Having actual airplay duration data can paint a better picture for the consumption vs artist revenue challenge.
