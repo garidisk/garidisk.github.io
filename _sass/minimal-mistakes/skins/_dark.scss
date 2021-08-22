@@ -3,7 +3,10 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #252a34 !default;
+$pinegreen: #01796f !default;
+
+$background-color: $pinegreen !default;
+/* $background-color: #252a34 !default; */
 $text-color: #eaeaea !default;
 $primary-color: #00adb5 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
@@ -12,7 +15,7 @@ $code-background-color-dark: mix(#000, $background-color, 20%) !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
 
 /* New link color */
-$link-color: #01796f !default;
+$link-color: $pinegreen !default;
 /* Old
 $link-color: mix($primary-color, $text-color, 40%) !default; 
 */
