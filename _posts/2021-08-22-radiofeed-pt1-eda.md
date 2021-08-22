@@ -6,6 +6,7 @@ header:
   image: "/images/radioclash.jpg"
 excerpt: "Data Wrangling, Data Analysis, Data Visualization, Python"
 mathjax: "true"
+classes: wide
 ---
 _This is Part I of the radio station feed data analysis. This part contains only the data wrangling part of the exploratory data analysis._
 
