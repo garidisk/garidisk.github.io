@@ -285,8 +285,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      #share: false
       related: true
+      share: # true
   
   # _pages
   - scope:
