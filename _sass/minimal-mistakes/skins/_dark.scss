@@ -20,11 +20,11 @@ $link-color: #01796f !default;
 /* $link-color: mix($primary-color, $text-color, 40%) !default;
 
 /* New color values */
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-hover: mix(#fff, $link-color, 50%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: #01796f !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$masthead-link-color-hover:mix(#fff, $link-color, 50%) !default;
+$navicon-link-color-hover: mix(#fff, $link-color, 50%) !default;
 
 /* Old color values */
 /*
