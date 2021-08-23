@@ -113,6 +113,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/garidisk/"
+    - label: "CV"
+      icon: "fab fa-fw fa-file-alt"
+      url: "https://drive.google.com/file/d/1b2GQXrtq9TjklenSZgaPgyhW2GJBspGA/view?usp=sharing"  
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:garidisk@gmail.com"
@@ -128,7 +131,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+      
 # Site Footer
 footer:
   links:
