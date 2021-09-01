@@ -18,3 +18,6 @@ I will constantly update it with each project I complete. Also, I might add some
 Enjoy!
 
 /Kostas
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/data_lego.jpeg" alt="data analysis with Lego">
+
