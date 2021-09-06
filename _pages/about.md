@@ -7,5 +7,5 @@ Physicist turned data analyst with a PhD in electrical engineering. Strong backg
 
 Actively seeking for career opportunities in data analytics. 
 
-My detailed CV and contact information can be found [here](https://drive.google.com/file/d/1b2GQXrtq9TjklenSZgaPgyhW2GJBspGA/view?usp=sharing).
+My detailed CV and contact information can be found [here](https://drive.google.com/file/d/13NBlP0cbD_rxKZ-DHsxyWQE_YUxyaczT/view?usp=sharing).
 
