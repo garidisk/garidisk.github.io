@@ -9,9 +9,9 @@ mathjax: "true"
 classes: wide
 ---
 
-Welcome!
+Welcome to my data analysis portfolio!
 
-This is my data analysis portfolio where I'll be uploading projects I have been working on to showcase my approach to tackling fundamental day-to-day tasks of a a data analyst. 
+Here I'll be uploading personal projects so you can see my approach to tackling fundamental day-to-day tasks of a data analyst. 
 
 Also it gives me another reason to explore datasets that I find interesting :)
 
