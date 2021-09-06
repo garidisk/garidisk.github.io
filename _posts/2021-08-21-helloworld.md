@@ -11,7 +11,7 @@ classes: wide
 
 Welcome!
 
-This is my data anlysis portfolio where I'll be uploading projects I have been working on to showcase my approach to tackling fundamental day-to-day tasks of a a data analyst. 
+This is my data analysis portfolio where I'll be uploading projects I have been working on to showcase my approach to tackling fundamental day-to-day tasks of a a data analyst. 
 
 Also it gives me another reason to explore datasets that I find interesting :)
 
