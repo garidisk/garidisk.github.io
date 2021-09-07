@@ -112,7 +112,7 @@ author:
       url: "https://github.com/garidisk"
     - label: "LinkedIn"
       #icon: "fab fa-fw fa-linkedin-in"
-      icon: "https://icon-icons.com/icon/linkedin-letters/73509"
+      icon: "/images/linkedin_icon.png"
       url: "https://www.linkedin.com/in/garidisk/"
     - label: "CV"
       icon: "far fa-fw fa-file-alt"
