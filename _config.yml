@@ -111,7 +111,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/garidisk"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/garidisk/"
     - label: "CV"
       icon: "far fa-fw fa-file-alt"
