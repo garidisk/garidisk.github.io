@@ -290,4 +290,4 @@ fig.show()
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/images/radiofeed/7.png" alt="linearly separable data">
 
-As a final note, it would be interesting to have some data on how long each song was played for each feed and radio station. Having actual airplay duration data can paint a better picture for the consumption vs artist revenue challenge.
+As a final note, it would be interesting to have some data on how long each song was played for each feed and radio station. Having actual airplay duration data can paint a better picture for the consumption versus artist revenue challenge.
