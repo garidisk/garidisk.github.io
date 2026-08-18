@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Kostas' project portfolio"
 title_separator          : "-"
-subtitle                 : "Data analysis, viz & modelling"
+subtitle                 : "Data analysis, modelling and other stuff"
 name                     : "garidisk"
 description              : "Data analytics portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kostas Garidis"
   avatar           : "/images/portrait_200px_1.jpg"
-  bio              : "*Data analyst, physicist & electrical engineering PhD graduate*"
+  bio              : "*Data analyst, physicist & electrical engineering PhD graduate*."
   location         : # "Stockholm, SE | Athens, GR"
   email            :
   links:
@@ -116,7 +116,7 @@ author:
     - label: "CV"
       icon: "far fa-fw fa-file-alt"
       # icon: "fas fa-fw fa-link"
-      url: "https://drive.google.com/file/d/13NBlP0cbD_rxKZ-DHsxyWQE_YUxyaczT/view?usp=sharing"
+      url: "/assets/cv_garidis.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:garidisk@gmail.com"
