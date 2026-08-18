@@ -3,3 +3,10 @@
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href$=".pdf"], a[href^="http"]:not([href*="garidisk.github.io"])')
+    .forEach(function (a) { a.target = '_blank'; a.rel = 'noopener noreferrer'; });
+});
+</script>
